@@ -1,0 +1,3 @@
+[submodule "backendtest"]
+	path = backendtest
+	url = git@github.com:wmoz/backendtest.git
